@@ -1,0 +1,7 @@
+{
+  "name": "progetto-vita-api",
+  "version": "1.0.0",
+  "description": "Backend serverless per Progetto Vita",
+  "main": "index.js",
+  "license": "MIT"
+}
